@@ -1,0 +1,10 @@
+D:\Workbench\Balance\exe\Balance\bin\Debug\Balance.exe.config
+D:\Workbench\Balance\exe\Balance\bin\Debug\Balance.exe
+D:\Workbench\Balance\exe\Balance\bin\Debug\Balance.pdb
+D:\Workbench\Balance\exe\Balance\obj\Debug\Balance.csprojAssemblyReference.cache
+D:\Workbench\Balance\exe\Balance\obj\Debug\Balance.Properties.Resources.resources
+D:\Workbench\Balance\exe\Balance\obj\Debug\Balance.csproj.GenerateResource.cache
+D:\Workbench\Balance\exe\Balance\obj\Debug\Balance.csproj.CoreCompileInputs.cache
+D:\Workbench\Balance\exe\Balance\obj\Debug\Balance.exe
+D:\Workbench\Balance\exe\Balance\obj\Debug\Balance.pdb
+D:\Workbench\Balance\exe\Balance\obj\Debug\Balance.main.resources

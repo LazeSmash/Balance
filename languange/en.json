@@ -1,0 +1,10 @@
+{
+    "version": {
+        "updated": "Up to date",
+        "needed": "Not updated! Download the Lasted version on ..."
+    },
+    "add": "Start",
+    "remove": "Close",
+    "current": "Current Amount",
+    "overview": "Overview"
+}
