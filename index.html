@@ -1,0 +1,40 @@
+<html>
+    <head>
+        <title>Balance</title>
+        <link rel="stylesheet" href="style.css">
+        <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+        <script src="script.js"></script>
+    </head>
+    <body class="balancecontainer">
+        <div class="container">
+            
+            <div id="balance">
+                Nuværende Beløb <br> 
+                <center>
+                    <span id="balanceAmount"></span> 
+                </center>
+            </div> 
+            <div id="actions">
+                Handlinger <br> 
+                <center>
+                    <button class="action" id="actionAdd" onclick="AddMoney()">Tilføj</button>
+                    <button class="action" id="actionRemove" onclick="RemoveMoney()">Fjern</button>
+                </center>
+            </div>
+            <div id="activity">
+                Oversigt <br> 
+                <div class="activity">
+
+                </div>
+                <!-- <div id="activityList">
+                    <span id="activityType">2</span>
+                    <span id="activityAmount">2</span>
+                </div> 
+                <div id="activityList">
+                    <span id="activityType">2</span>
+                    <span id="activityAmount">2</span>
+                </div>  -->
+            </div> 
+        </div>
+    </body>
+</html>
